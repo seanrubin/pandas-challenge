@@ -62,6 +62,7 @@ Sort the schools by % Overall Passing in ascending order and display the top 5 r
 
 # Math Scores by Grade
 Perform the necessary calculations to create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![image](https://github.com/seanrubin/pandas-challenge/assets/31460184/aea91531-6af5-4f05-a9b3-bd27b8d27f86)
 
 # Reading Scores by Grade
